@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Environment secrets
+.env
+env
+
+# Testing & Cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Binaries & Large binaries
+cloudflared.exe
+*.exe
+
+# Screenshots and temp preview images
+*.png
+!app/assets/*.png
+
+# Scratch directories and browser profiles
+scratch/
+scratch_*/

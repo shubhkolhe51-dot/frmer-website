@@ -1,0 +1,3124 @@
+[
+  {
+    "id": "apmc-1",
+    "district": "Nashik",
+    "taluka": "Nasik",
+    "mandi_name": "Nasik APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-2",
+    "district": "Nashik",
+    "taluka": "Malegaon",
+    "mandi_name": "Malegaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-3",
+    "district": "Nashik",
+    "taluka": "Sinner",
+    "mandi_name": "Sinner APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-4",
+    "district": "Nashik",
+    "taluka": "Nandgaon",
+    "mandi_name": "Nandgaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-5",
+    "district": "Nashik",
+    "taluka": "Devala",
+    "mandi_name": "Devala APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-6",
+    "district": "Nashik",
+    "taluka": "Lasalgaon",
+    "mandi_name": "Lasalgaon(Niphad) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-7",
+    "district": "Nashik",
+    "taluka": "Satana",
+    "mandi_name": "Satana APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-8",
+    "district": "Nashik",
+    "taluka": "Chandvad",
+    "mandi_name": "Chandvad APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-9",
+    "district": "Nashik",
+    "taluka": "Manmad",
+    "mandi_name": "Manmad APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-10",
+    "district": "Nashik",
+    "taluka": "Yeola",
+    "mandi_name": "Yeola APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-11",
+    "district": "Nashik",
+    "taluka": "Ghoti",
+    "mandi_name": "Ghoti APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-12",
+    "district": "Nashik",
+    "taluka": "Lasalgaon",
+    "mandi_name": "Lasalgaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-13",
+    "district": "Nashik",
+    "taluka": "Nashik",
+    "mandi_name": "Nashik(Devlali) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-14",
+    "district": "Nashik",
+    "taluka": "Pimpalgaon",
+    "mandi_name": "Pimpalgaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-15",
+    "district": "Nashik",
+    "taluka": "Lasalgaon",
+    "mandi_name": "Lasalgaon(Vinchur) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-16",
+    "district": "Nashik",
+    "taluka": "Dindori",
+    "mandi_name": "Dindori(Vani) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-17",
+    "district": "Nashik",
+    "taluka": "Kalvan",
+    "mandi_name": "Kalvan APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-18",
+    "district": "Nashik",
+    "taluka": "Nampur",
+    "mandi_name": "Nampur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-19",
+    "district": "Nashik",
+    "taluka": "Perfect Krishi Market Yard",
+    "mandi_name": "Perfect Krishi Market Yard APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-20",
+    "district": "Nashik",
+    "taluka": "Pimpalgaon Baswant",
+    "mandi_name": "Pimpalgaon Baswant(Saykheda) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-21",
+    "district": "Nashik",
+    "taluka": "Umrane",
+    "mandi_name": "Umrane APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-22",
+    "district": "Nashik",
+    "taluka": "Baphana Agro Market Inc",
+    "mandi_name": "Baphana Agro Market Inc APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-23",
+    "district": "Nashik",
+    "taluka": "Baswant",
+    "mandi_name": "Baswant APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-24",
+    "district": "Nashik",
+    "taluka": "Dindori",
+    "mandi_name": "Dindori APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-25",
+    "district": "Nashik",
+    "taluka": "Malharshree Farmers Producer Co Ltd",
+    "mandi_name": "Malharshree Farmers Producer Co Ltd APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-26",
+    "district": "Nashik",
+    "taluka": "Mankamneshwar Farmar Producer CoLtd Sanchalit Mank",
+    "mandi_name": "Mankamneshwar Farmar Producer CoLtd Sanchalit Mank APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-27",
+    "district": "Nashik",
+    "taluka": "Premium Krushi Utpanna Bazar",
+    "mandi_name": "Premium Krushi Utpanna Bazar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-28",
+    "district": "Nashik",
+    "taluka": "Shivsiddha Govind Producer Company Limited Sanchal",
+    "mandi_name": "Shivsiddha Govind Producer Company Limited Sanchal APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-29",
+    "district": "Nashik",
+    "taluka": "Shree Rameshwar Krushi Market",
+    "mandi_name": "Shree Rameshwar Krushi Market APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-30",
+    "district": "Nashik",
+    "taluka": "Suragana",
+    "mandi_name": "Suragana APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-31",
+    "district": "Yavatmal",
+    "taluka": "Cottoncity Agro Foods Private Ltd",
+    "mandi_name": "Cottoncity Agro Foods Private Ltd APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-32",
+    "district": "Yavatmal",
+    "taluka": "Yeotmal",
+    "mandi_name": "Yeotmal APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-33",
+    "district": "Yavatmal",
+    "taluka": "Shekari Krushi Khajgi Bazar",
+    "mandi_name": "Shekari Krushi Khajgi Bazar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-34",
+    "district": "Yavatmal",
+    "taluka": "Vani",
+    "mandi_name": "Vani APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-35",
+    "district": "Yavatmal",
+    "taluka": "Kisan Market Yard",
+    "mandi_name": "Kisan Market Yard APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-36",
+    "district": "Yavatmal",
+    "taluka": "Mahesh Krushi Utpanna Bazar, Digras",
+    "mandi_name": "Mahesh Krushi Utpanna Bazar, Digras APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-37",
+    "district": "Yavatmal",
+    "taluka": "Pusad",
+    "mandi_name": "Pusad APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-38",
+    "district": "Yavatmal",
+    "taluka": "Digras",
+    "mandi_name": "Digras APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-39",
+    "district": "Yavatmal",
+    "taluka": "Umarkhed",
+    "mandi_name": "Umarkhed APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-40",
+    "district": "Yavatmal",
+    "taluka": "Babhulgaon",
+    "mandi_name": "Babhulgaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-41",
+    "district": "Yavatmal",
+    "taluka": "Ner Parasopant",
+    "mandi_name": "Ner Parasopant APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-42",
+    "district": "Yavatmal",
+    "taluka": "Umarked",
+    "mandi_name": "Umarked(Danki) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-43",
+    "district": "Yavatmal",
+    "taluka": "Aarni",
+    "mandi_name": "Aarni APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-44",
+    "district": "Yavatmal",
+    "taluka": "Balaji Krushi Market",
+    "mandi_name": "Balaji Krushi Market APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-45",
+    "district": "Yavatmal",
+    "taluka": "Bori Arab",
+    "mandi_name": "Bori Arab APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-46",
+    "district": "Yavatmal",
+    "taluka": "Darwha",
+    "mandi_name": "Darwha APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-47",
+    "district": "Yavatmal",
+    "taluka": "Ghatanji",
+    "mandi_name": "Ghatanji APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-48",
+    "district": "Yavatmal",
+    "taluka": "Jagdamba Agrocare",
+    "mandi_name": "Jagdamba Agrocare APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-49",
+    "district": "Yavatmal",
+    "taluka": "Kalamb",
+    "mandi_name": "Kalamb APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-50",
+    "district": "Yavatmal",
+    "taluka": "Mahagaon",
+    "mandi_name": "Mahagaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-51",
+    "district": "Yavatmal",
+    "taluka": "Mahavir Agriculture Produce Market",
+    "mandi_name": "Mahavir Agriculture Produce Market APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-52",
+    "district": "Yavatmal",
+    "taluka": "Mahavira Agricare",
+    "mandi_name": "Mahavira Agricare APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-53",
+    "district": "Yavatmal",
+    "taluka": "Maregoan",
+    "mandi_name": "Maregoan APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-54",
+    "district": "Yavatmal",
+    "taluka": "Pandhakawada",
+    "mandi_name": "Pandhakawada APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-55",
+    "district": "Yavatmal",
+    "taluka": "Ralegaon",
+    "mandi_name": "Ralegaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-56",
+    "district": "Yavatmal",
+    "taluka": "Ramdev Krushi Bazaar",
+    "mandi_name": "Ramdev Krushi Bazaar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-57",
+    "district": "Yavatmal",
+    "taluka": "Renukadevi Private Market Yard",
+    "mandi_name": "Renukadevi Private Market Yard APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-58",
+    "district": "Yavatmal",
+    "taluka": "ZariZamini",
+    "mandi_name": "ZariZamini APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-59",
+    "district": "Jalgaon",
+    "taluka": "Jalgaon",
+    "mandi_name": "Jalgaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-60",
+    "district": "Jalgaon",
+    "taluka": "Bhusaval",
+    "mandi_name": "Bhusaval APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-61",
+    "district": "Jalgaon",
+    "taluka": "Chopada",
+    "mandi_name": "Chopada APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-62",
+    "district": "Jalgaon",
+    "taluka": "Pachora",
+    "mandi_name": "Pachora APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-63",
+    "district": "Jalgaon",
+    "taluka": "Amalner",
+    "mandi_name": "Amalner APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-64",
+    "district": "Jalgaon",
+    "taluka": "Chalisgaon",
+    "mandi_name": "Chalisgaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-65",
+    "district": "Jalgaon",
+    "taluka": "Parola",
+    "mandi_name": "Parola APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-66",
+    "district": "Jalgaon",
+    "taluka": "Yashika Agro Marketing",
+    "mandi_name": "Yashika Agro Marketing APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-67",
+    "district": "Jalgaon",
+    "taluka": "Yawal",
+    "mandi_name": "Yawal APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-68",
+    "district": "Jalgaon",
+    "taluka": "Bodwad",
+    "mandi_name": "Bodwad APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-69",
+    "district": "Jalgaon",
+    "taluka": "Bodwad",
+    "mandi_name": "Bodwad(Varangaon) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-70",
+    "district": "Jalgaon",
+    "taluka": "Dharangaon",
+    "mandi_name": "Dharangaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-71",
+    "district": "Jalgaon",
+    "taluka": "Gopal Krishna Agro",
+    "mandi_name": "Gopal Krishna Agro APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-72",
+    "district": "Jalgaon",
+    "taluka": "Govardhan Farm Produce Market",
+    "mandi_name": "Govardhan Farm Produce Market APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-73",
+    "district": "Jalgaon",
+    "taluka": "J S K Agro Market",
+    "mandi_name": "J S K Agro Market APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-74",
+    "district": "Jalgaon",
+    "taluka": "Jalgaon",
+    "mandi_name": "Jalgaon(Masawat) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-75",
+    "district": "Jalgaon",
+    "taluka": "Jamner",
+    "mandi_name": "Jamner APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-76",
+    "district": "Jalgaon",
+    "taluka": "Jamner",
+    "mandi_name": "Jamner(Neri) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-77",
+    "district": "Jalgaon",
+    "taluka": "Laxmi Krushi Utpanna Khjgi Bajar",
+    "mandi_name": "Laxmi Krushi Utpanna Khjgi Bajar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-78",
+    "district": "Jalgaon",
+    "taluka": "Mahavir Agri Market",
+    "mandi_name": "Mahavir Agri Market APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-79",
+    "district": "Jalgaon",
+    "taluka": "Pachora",
+    "mandi_name": "Pachora(Bhadgaon) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-80",
+    "district": "Jalgaon",
+    "taluka": "Raver",
+    "mandi_name": "Raver APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-81",
+    "district": "Jalgaon",
+    "taluka": "Raver",
+    "mandi_name": "Raver(Sauda) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-82",
+    "district": "Jalgaon",
+    "taluka": "Sanghavi Agriculture Marketing",
+    "mandi_name": "Sanghavi Agriculture Marketing APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-83",
+    "district": "Jalgaon",
+    "taluka": "Shantilal Jain Agro",
+    "mandi_name": "Shantilal Jain Agro APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-84",
+    "district": "Jalgaon",
+    "taluka": "Vijaya Agri Private Market",
+    "mandi_name": "Vijaya Agri Private Market APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-85",
+    "district": "Ahilyanagar",
+    "taluka": "Ahilyanagar",
+    "mandi_name": "Ahilyanagar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-86",
+    "district": "Ahilyanagar",
+    "taluka": "Rahata",
+    "mandi_name": "Rahata APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-87",
+    "district": "Ahilyanagar",
+    "taluka": "Rahuri",
+    "mandi_name": "Rahuri APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-88",
+    "district": "Ahilyanagar",
+    "taluka": "Shrirampur",
+    "mandi_name": "Shrirampur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-89",
+    "district": "Ahilyanagar",
+    "taluka": "Jamkhed",
+    "mandi_name": "Jamkhed APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-90",
+    "district": "Ahilyanagar",
+    "taluka": "Shrigonda",
+    "mandi_name": "Shrigonda APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-91",
+    "district": "Ahilyanagar",
+    "taluka": "Karjat",
+    "mandi_name": "Karjat APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-92",
+    "district": "Ahilyanagar",
+    "taluka": "Shevgaon",
+    "mandi_name": "Shevgaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-93",
+    "district": "Ahilyanagar",
+    "taluka": "Kopargaon",
+    "mandi_name": "Kopargaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-94",
+    "district": "Ahilyanagar",
+    "taluka": "Om Chaitanya Multistate Agro Purpose CoOp Society",
+    "mandi_name": "Om Chaitanya Multistate Agro Purpose CoOp Society APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-95",
+    "district": "Ahilyanagar",
+    "taluka": "Rahuri",
+    "mandi_name": "Rahuri(Vambori) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-96",
+    "district": "Ahilyanagar",
+    "taluka": "Pathardi",
+    "mandi_name": "Pathardi APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-97",
+    "district": "Ahilyanagar",
+    "taluka": "Sangamner",
+    "mandi_name": "Sangamner APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-98",
+    "district": "Ahilyanagar",
+    "taluka": "Shevgaon",
+    "mandi_name": "Shevgaon(Bodhegaon) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-99",
+    "district": "Ahilyanagar",
+    "taluka": "Karjat",
+    "mandi_name": "Karjat(Rashin) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-100",
+    "district": "Ahilyanagar",
+    "taluka": "Newasa",
+    "mandi_name": "Newasa APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-101",
+    "district": "Ahilyanagar",
+    "taluka": "Akole",
+    "mandi_name": "Akole APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-102",
+    "district": "Ahilyanagar",
+    "taluka": "Newasa",
+    "mandi_name": "Newasa(Ghodegaon) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-103",
+    "district": "Ahilyanagar",
+    "taluka": "Parner",
+    "mandi_name": "Parner APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-104",
+    "district": "Ahilyanagar",
+    "taluka": "Shree Sairaj Krushi Market",
+    "mandi_name": "Shree Sairaj Krushi Market APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-105",
+    "district": "Ahilyanagar",
+    "taluka": "Shrirampur",
+    "mandi_name": "Shrirampur(Belapur) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-106",
+    "district": "Ahilyanagar",
+    "taluka": "Ahmednagar",
+    "mandi_name": "Ahmednagar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-107",
+    "district": "Ahilyanagar",
+    "taluka": "Prasanna Krushi Market",
+    "mandi_name": "Prasanna Krushi Market APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-108",
+    "district": "Ahilyanagar",
+    "taluka": "Rahuri",
+    "mandi_name": "Rahuri(Songaon) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-109",
+    "district": "Ahilyanagar",
+    "taluka": "Shrigonda",
+    "mandi_name": "Shrigonda(Gogargaon) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-110",
+    "district": "Pune",
+    "taluka": "Pune",
+    "mandi_name": "Pune APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-111",
+    "district": "Pune",
+    "taluka": "Pune",
+    "mandi_name": "Pune(Moshi) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-112",
+    "district": "Pune",
+    "taluka": "Pune",
+    "mandi_name": "Pune(Manjri) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-113",
+    "district": "Pune",
+    "taluka": "Junnar",
+    "mandi_name": "Junnar(Narayangaon) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-114",
+    "district": "Pune",
+    "taluka": "Manchar",
+    "mandi_name": "Manchar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-115",
+    "district": "Pune",
+    "taluka": "Khed",
+    "mandi_name": "Khed(Chakan) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-116",
+    "district": "Pune",
+    "taluka": "Pune",
+    "mandi_name": "Pune(Khadiki) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-117",
+    "district": "Pune",
+    "taluka": "Pune",
+    "mandi_name": "Pune(Pimpri) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-118",
+    "district": "Pune",
+    "taluka": "Junnar",
+    "mandi_name": "Junnar(Otur) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-119",
+    "district": "Pune",
+    "taluka": "Khed",
+    "mandi_name": "Khed APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-120",
+    "district": "Pune",
+    "taluka": "Baramati",
+    "mandi_name": "Baramati APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-121",
+    "district": "Pune",
+    "taluka": "Indapur",
+    "mandi_name": "Indapur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-122",
+    "district": "Pune",
+    "taluka": "Shirur",
+    "mandi_name": "Shirur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-123",
+    "district": "Pune",
+    "taluka": "Nira",
+    "mandi_name": "Nira(Saswad) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-124",
+    "district": "Pune",
+    "taluka": "Junnar",
+    "mandi_name": "Junnar(Alephata) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-125",
+    "district": "Pune",
+    "taluka": "Bhor",
+    "mandi_name": "Bhor APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-126",
+    "district": "Pune",
+    "taluka": "Junnar",
+    "mandi_name": "Junnar(Bhlhe) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-127",
+    "district": "Pune",
+    "taluka": "Dound",
+    "mandi_name": "Dound APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-128",
+    "district": "Pune",
+    "taluka": "Junnar",
+    "mandi_name": "Junnar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-129",
+    "district": "Pune",
+    "taluka": "Nira",
+    "mandi_name": "Nira APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-130",
+    "district": "Pune",
+    "taluka": "Indapur",
+    "mandi_name": "Indapur(Bhigwan) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-131",
+    "district": "Pune",
+    "taluka": "Indapur",
+    "mandi_name": "Indapur(Nimgaon Ketki) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-132",
+    "district": "Pune",
+    "taluka": "Khed",
+    "mandi_name": "Khed(Shel Pimpalgaon) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-133",
+    "district": "Pune",
+    "taluka": "Mulshi",
+    "mandi_name": "Mulshi APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-134",
+    "district": "Pune",
+    "taluka": "Talegaon Dabhade",
+    "mandi_name": "Talegaon Dabhade APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-135",
+    "district": "Buldhana",
+    "taluka": "Khamgaon",
+    "mandi_name": "Khamgaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-136",
+    "district": "Buldhana",
+    "taluka": "Malkapur",
+    "mandi_name": "Malkapur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-137",
+    "district": "Buldhana",
+    "taluka": "Lonar",
+    "mandi_name": "Lonar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-138",
+    "district": "Buldhana",
+    "taluka": "Deoulgaon Raja",
+    "mandi_name": "Deoulgaon Raja APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-139",
+    "district": "Buldhana",
+    "taluka": "Jaykissan Krushi Uttpan Khajgi Bazar",
+    "mandi_name": "Jaykissan Krushi Uttpan Khajgi Bazar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-140",
+    "district": "Buldhana",
+    "taluka": "Nandura",
+    "mandi_name": "Nandura APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-141",
+    "district": "Buldhana",
+    "taluka": "Shegaon",
+    "mandi_name": "Shegaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-142",
+    "district": "Buldhana",
+    "taluka": "Jalgaon Jamod",
+    "mandi_name": "Jalgaon Jamod(Aasalgaon) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-143",
+    "district": "Buldhana",
+    "taluka": "Maharaja Agresen Private Krushi Utappan Bazar Sama",
+    "mandi_name": "Maharaja Agresen Private Krushi Utappan Bazar Sama APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-144",
+    "district": "Buldhana",
+    "taluka": "Mehekar",
+    "mandi_name": "Mehekar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-145",
+    "district": "Buldhana",
+    "taluka": "BSK Krishi Bazar Private Ltd",
+    "mandi_name": "BSK Krishi Bazar Private Ltd APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-146",
+    "district": "Buldhana",
+    "taluka": "Chikali",
+    "mandi_name": "Chikali APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-147",
+    "district": "Buldhana",
+    "taluka": "Motala",
+    "mandi_name": "Motala APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-148",
+    "district": "Buldhana",
+    "taluka": "ACF Agro Marketing",
+    "mandi_name": "ACF Agro Marketing APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-149",
+    "district": "Buldhana",
+    "taluka": "Buldhana",
+    "mandi_name": "Buldhana APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-150",
+    "district": "Buldhana",
+    "taluka": "Buldhana",
+    "mandi_name": "Buldhana(Dhad) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-151",
+    "district": "Buldhana",
+    "taluka": "Dand Brothers Agro",
+    "mandi_name": "Dand Brothers Agro APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-152",
+    "district": "Buldhana",
+    "taluka": "Deulgaon Raja Balaji Agro Marketing Private Market",
+    "mandi_name": "Deulgaon Raja Balaji Agro Marketing Private Market APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-153",
+    "district": "Buldhana",
+    "taluka": "Jalgaon",
+    "mandi_name": "Jalgaon(Jamod) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-154",
+    "district": "Buldhana",
+    "taluka": "Sangrampur",
+    "mandi_name": "Sangrampur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-155",
+    "district": "Buldhana",
+    "taluka": "Sangrampur",
+    "mandi_name": "Sangrampur(Varvatbakal) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-156",
+    "district": "Buldhana",
+    "taluka": "Sindkhed Raja",
+    "mandi_name": "Sindkhed Raja APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-157",
+    "district": "Nanded",
+    "taluka": "Nanded",
+    "mandi_name": "Nanded APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-158",
+    "district": "Nanded",
+    "taluka": "Bhokar",
+    "mandi_name": "Bhokar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-159",
+    "district": "Nanded",
+    "taluka": "Loha",
+    "mandi_name": "Loha APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-160",
+    "district": "Nanded",
+    "taluka": "Kandhar",
+    "mandi_name": "Kandhar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-161",
+    "district": "Nanded",
+    "taluka": "Mukhed",
+    "mandi_name": "Mukhed APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-162",
+    "district": "Nanded",
+    "taluka": "Mudkhed",
+    "mandi_name": "Mudkhed APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-163",
+    "district": "Nanded",
+    "taluka": "Dharmabad",
+    "mandi_name": "Dharmabad APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-164",
+    "district": "Nanded",
+    "taluka": "Hadgaon",
+    "mandi_name": "Hadgaon(Tamsa) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-165",
+    "district": "Nanded",
+    "taluka": "Himalyatnagar",
+    "mandi_name": "Himalyatnagar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-166",
+    "district": "Nanded",
+    "taluka": "Biloli",
+    "mandi_name": "Biloli APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-167",
+    "district": "Nanded",
+    "taluka": "Deglur",
+    "mandi_name": "Deglur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-168",
+    "district": "Nanded",
+    "taluka": "Hadgaon",
+    "mandi_name": "Hadgaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-169",
+    "district": "Nanded",
+    "taluka": "Islapur",
+    "mandi_name": "Islapur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-170",
+    "district": "Nanded",
+    "taluka": "Kinwat",
+    "mandi_name": "Kinwat APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-171",
+    "district": "Nanded",
+    "taluka": "Kundalwadi",
+    "mandi_name": "Kundalwadi APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-172",
+    "district": "Nanded",
+    "taluka": "Kuntur",
+    "mandi_name": "Kuntur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-173",
+    "district": "Nanded",
+    "taluka": "Mahur",
+    "mandi_name": "Mahur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-174",
+    "district": "Nanded",
+    "taluka": "Mukhed",
+    "mandi_name": "Mukhed(Mukkambad) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-175",
+    "district": "Nanded",
+    "taluka": "Naigaon",
+    "mandi_name": "Naigaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-176",
+    "district": "Nanded",
+    "taluka": "Navratna Krishi Utpanna Khajgi Bazar",
+    "mandi_name": "Navratna Krishi Utpanna Khajgi Bazar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-177",
+    "district": "Nanded",
+    "taluka": "Shetkari Khajgi Bajar",
+    "mandi_name": "Shetkari Khajgi Bajar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-178",
+    "district": "Nanded",
+    "taluka": "Umari",
+    "mandi_name": "Umari APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-179",
+    "district": "Parbhani",
+    "taluka": "Pathari",
+    "mandi_name": "Pathari APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-180",
+    "district": "Parbhani",
+    "taluka": "Jintur",
+    "mandi_name": "Jintur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-181",
+    "district": "Parbhani",
+    "taluka": "Tadkalas",
+    "mandi_name": "Tadkalas APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-182",
+    "district": "Parbhani",
+    "taluka": "Parbhani",
+    "mandi_name": "Parbhani APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-183",
+    "district": "Parbhani",
+    "taluka": "Gangakhed",
+    "mandi_name": "Gangakhed APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-184",
+    "district": "Parbhani",
+    "taluka": "Shree Salasar Krushi Bazar",
+    "mandi_name": "Shree Salasar Krushi Bazar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-185",
+    "district": "Parbhani",
+    "taluka": "Manwat",
+    "mandi_name": "Manwat APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-186",
+    "district": "Parbhani",
+    "taluka": "Bori",
+    "mandi_name": "Bori APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-187",
+    "district": "Parbhani",
+    "taluka": "Hari Har Khajagi Bazar Parisar",
+    "mandi_name": "Hari Har Khajagi Bazar Parisar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-188",
+    "district": "Parbhani",
+    "taluka": "Palam",
+    "mandi_name": "Palam APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-189",
+    "district": "Parbhani",
+    "taluka": "Purna",
+    "mandi_name": "Purna APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-190",
+    "district": "Parbhani",
+    "taluka": "Sailu",
+    "mandi_name": "Sailu APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-191",
+    "district": "Parbhani",
+    "taluka": "Samartha Krushi Bajar Private Limited",
+    "mandi_name": "Samartha Krushi Bajar Private Limited APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-192",
+    "district": "Parbhani",
+    "taluka": "Selu",
+    "mandi_name": "Selu APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-193",
+    "district": "Parbhani",
+    "taluka": "Sirsam",
+    "mandi_name": "Sirsam APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-194",
+    "district": "Parbhani",
+    "taluka": "Sonpeth",
+    "mandi_name": "Sonpeth APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-195",
+    "district": "Amravati",
+    "taluka": "Amrawati",
+    "mandi_name": "Amrawati(Frui & Veg. Market) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-196",
+    "district": "Amravati",
+    "taluka": "Amarawati",
+    "mandi_name": "Amarawati APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-197",
+    "district": "Amravati",
+    "taluka": "Anajngaon",
+    "mandi_name": "Anajngaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-198",
+    "district": "Amravati",
+    "taluka": "Dhamngaon-Railway",
+    "mandi_name": "Dhamngaon-Railway APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-199",
+    "district": "Amravati",
+    "taluka": "Achalpur",
+    "mandi_name": "Achalpur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-200",
+    "district": "Amravati",
+    "taluka": "Morshi",
+    "mandi_name": "Morshi APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-201",
+    "district": "Amravati",
+    "taluka": "Chandur Bazar",
+    "mandi_name": "Chandur Bazar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-202",
+    "district": "Amravati",
+    "taluka": "Chandur Railway",
+    "mandi_name": "Chandur Railway APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-203",
+    "district": "Amravati",
+    "taluka": "Daryapur",
+    "mandi_name": "Daryapur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-204",
+    "district": "Amravati",
+    "taluka": "Shetkari Khushi Bazar",
+    "mandi_name": "Shetkari Khushi Bazar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-205",
+    "district": "Amravati",
+    "taluka": "Varud",
+    "mandi_name": "Varud(Rajura Bazar) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-206",
+    "district": "Amravati",
+    "taluka": "Dharni",
+    "mandi_name": "Dharni APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-207",
+    "district": "Amravati",
+    "taluka": "Nandgaon Khandeshwar",
+    "mandi_name": "Nandgaon Khandeshwar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-208",
+    "district": "Amravati",
+    "taluka": "Tiwasa",
+    "mandi_name": "Tiwasa APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-209",
+    "district": "Amravati",
+    "taluka": "Varud",
+    "mandi_name": "Varud APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-210",
+    "district": "Nagpur",
+    "taluka": "Nagpur",
+    "mandi_name": "Nagpur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-211",
+    "district": "Nagpur",
+    "taluka": "Hingna",
+    "mandi_name": "Hingna APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-212",
+    "district": "Nagpur",
+    "taluka": "Kamthi",
+    "mandi_name": "Kamthi APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-213",
+    "district": "Nagpur",
+    "taluka": "Ramtek",
+    "mandi_name": "Ramtek APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-214",
+    "district": "Nagpur",
+    "taluka": "Kalmeshwar",
+    "mandi_name": "Kalmeshwar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-215",
+    "district": "Nagpur",
+    "taluka": "Umared",
+    "mandi_name": "Umared APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-216",
+    "district": "Nagpur",
+    "taluka": "Katol",
+    "mandi_name": "Katol APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-217",
+    "district": "Nagpur",
+    "taluka": "Savner",
+    "mandi_name": "Savner APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-218",
+    "district": "Nagpur",
+    "taluka": "MS Kalpana Agri Commodities Marketing",
+    "mandi_name": "MS Kalpana Agri Commodities Marketing APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-219",
+    "district": "Nagpur",
+    "taluka": "Narkhed",
+    "mandi_name": "Narkhed APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-220",
+    "district": "Nagpur",
+    "taluka": "Bhiwapur",
+    "mandi_name": "Bhiwapur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-221",
+    "district": "Nagpur",
+    "taluka": "Mandhal",
+    "mandi_name": "Mandhal APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-222",
+    "district": "Nagpur",
+    "taluka": "Mauda",
+    "mandi_name": "Mauda APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-223",
+    "district": "Nagpur",
+    "taluka": "Nagpur",
+    "mandi_name": "Nagpur(Mahatma Phule Market) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-224",
+    "district": "Nagpur",
+    "taluka": "Parshiwani",
+    "mandi_name": "Parshiwani APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-225",
+    "district": "Solapur",
+    "taluka": "Solapur",
+    "mandi_name": "Solapur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-226",
+    "district": "Solapur",
+    "taluka": "Akluj",
+    "mandi_name": "Akluj APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-227",
+    "district": "Solapur",
+    "taluka": "Barshi",
+    "mandi_name": "Barshi APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-228",
+    "district": "Solapur",
+    "taluka": "Mangal Wedha",
+    "mandi_name": "Mangal Wedha APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-229",
+    "district": "Solapur",
+    "taluka": "Karmala",
+    "mandi_name": "Karmala APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-230",
+    "district": "Solapur",
+    "taluka": "Dudhani",
+    "mandi_name": "Dudhani APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-231",
+    "district": "Solapur",
+    "taluka": "Kurdwadi",
+    "mandi_name": "Kurdwadi(Modnimb) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-232",
+    "district": "Solapur",
+    "taluka": "Barshi",
+    "mandi_name": "Barshi(Vairag) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-233",
+    "district": "Solapur",
+    "taluka": "Kurdwadi",
+    "mandi_name": "Kurdwadi APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-234",
+    "district": "Solapur",
+    "taluka": "Pandharpur",
+    "mandi_name": "Pandharpur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-235",
+    "district": "Solapur",
+    "taluka": "Laxmi Sopan Agriculture Produce Marketing Co Ltd",
+    "mandi_name": "Laxmi Sopan Agriculture Produce Marketing Co Ltd APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-236",
+    "district": "Solapur",
+    "taluka": "Mohol",
+    "mandi_name": "Mohol APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-237",
+    "district": "Solapur",
+    "taluka": "Perfect Krishi Market Yard Pvt Ltd",
+    "mandi_name": "Perfect Krishi Market Yard Pvt Ltd APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-238",
+    "district": "Solapur",
+    "taluka": "Sangola",
+    "mandi_name": "Sangola APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-239",
+    "district": "Solapur",
+    "taluka": "Akkalkot",
+    "mandi_name": "Akkalkot APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-240",
+    "district": "Chandrapur",
+    "taluka": "Chandrapur",
+    "mandi_name": "Chandrapur(Ganjwad) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-241",
+    "district": "Chandrapur",
+    "taluka": "Brahmpuri",
+    "mandi_name": "Brahmpuri APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-242",
+    "district": "Chandrapur",
+    "taluka": "Gondpimpri",
+    "mandi_name": "Gondpimpri APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-243",
+    "district": "Chandrapur",
+    "taluka": "Mul",
+    "mandi_name": "Mul APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-244",
+    "district": "Chandrapur",
+    "taluka": "Nagbhid",
+    "mandi_name": "Nagbhid APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-245",
+    "district": "Chandrapur",
+    "taluka": "Pombhurni",
+    "mandi_name": "Pombhurni APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-246",
+    "district": "Chandrapur",
+    "taluka": "Savali",
+    "mandi_name": "Savali APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-247",
+    "district": "Chandrapur",
+    "taluka": "Bhadrawati",
+    "mandi_name": "Bhadrawati APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-248",
+    "district": "Chandrapur",
+    "taluka": "Chandrapur",
+    "mandi_name": "Chandrapur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-249",
+    "district": "Chandrapur",
+    "taluka": "Chimur",
+    "mandi_name": "Chimur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-250",
+    "district": "Chandrapur",
+    "taluka": "Korpana",
+    "mandi_name": "Korpana APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-251",
+    "district": "Chandrapur",
+    "taluka": "Rajura",
+    "mandi_name": "Rajura APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-252",
+    "district": "Chandrapur",
+    "taluka": "Sindevahi",
+    "mandi_name": "Sindevahi APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-253",
+    "district": "Chandrapur",
+    "taluka": "Varora",
+    "mandi_name": "Varora APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-254",
+    "district": "Chhatrapati Sambhajinagar",
+    "taluka": "Chattrapati Sambhajinagar",
+    "mandi_name": "Chattrapati Sambhajinagar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-255",
+    "district": "Chhatrapati Sambhajinagar",
+    "taluka": "Vaijpur",
+    "mandi_name": "Vaijpur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-256",
+    "district": "Chhatrapati Sambhajinagar",
+    "taluka": "Paithan",
+    "mandi_name": "Paithan APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-257",
+    "district": "Chhatrapati Sambhajinagar",
+    "taluka": "Gangapur",
+    "mandi_name": "Gangapur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-258",
+    "district": "Chhatrapati Sambhajinagar",
+    "taluka": "Lasur Station",
+    "mandi_name": "Lasur Station APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-259",
+    "district": "Chhatrapati Sambhajinagar",
+    "taluka": "Sillod",
+    "mandi_name": "Sillod(Bharadi) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-260",
+    "district": "Chhatrapati Sambhajinagar",
+    "taluka": "Kannad",
+    "mandi_name": "Kannad APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-261",
+    "district": "Chhatrapati Sambhajinagar",
+    "taluka": "Sillod",
+    "mandi_name": "Sillod APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-262",
+    "district": "Chhatrapati Sambhajinagar",
+    "taluka": "Bhagyoday Cotton and Agri Market",
+    "mandi_name": "Bhagyoday Cotton and Agri Market APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-263",
+    "district": "Chhatrapati Sambhajinagar",
+    "taluka": "Fulmbri",
+    "mandi_name": "Fulmbri APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-264",
+    "district": "Chhatrapati Sambhajinagar",
+    "taluka": "Khultabad",
+    "mandi_name": "Khultabad APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-265",
+    "district": "Chhatrapati Sambhajinagar",
+    "taluka": "Kisan Seva Private Market",
+    "mandi_name": "Kisan Seva Private Market APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-266",
+    "district": "Chhatrapati Sambhajinagar",
+    "taluka": "Maharashtra Agricultural Farm",
+    "mandi_name": "Maharashtra Agricultural Farm APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-267",
+    "district": "Chhatrapati Sambhajinagar",
+    "taluka": "Soygaon",
+    "mandi_name": "Soygaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-268",
+    "district": "Hingoli",
+    "taluka": "Hingoli",
+    "mandi_name": "Hingoli APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-269",
+    "district": "Hingoli",
+    "taluka": "Sengoan",
+    "mandi_name": "Sengoan APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-270",
+    "district": "Hingoli",
+    "taluka": "Hingoli",
+    "mandi_name": "Hingoli(Kanegoan Naka) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-271",
+    "district": "Hingoli",
+    "taluka": "Basmat",
+    "mandi_name": "Basmat APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-272",
+    "district": "Hingoli",
+    "taluka": "Gajanan Krushi Utpanna Bazar",
+    "mandi_name": "Gajanan Krushi Utpanna Bazar (India) Pvt Ltd APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-273",
+    "district": "Hingoli",
+    "taluka": "Jawala-Bajar",
+    "mandi_name": "Jawala-Bajar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-274",
+    "district": "Hingoli",
+    "taluka": "Adarsh Krushi Bazar",
+    "mandi_name": "Adarsh Krushi Bazar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-275",
+    "district": "Hingoli",
+    "taluka": "Akhadabalapur",
+    "mandi_name": "Akhadabalapur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-276",
+    "district": "Hingoli",
+    "taluka": "Basmat",
+    "mandi_name": "Basmat(Kurunda) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-277",
+    "district": "Hingoli",
+    "taluka": "Gajanaan Krushi Bazar",
+    "mandi_name": "Gajanaan Krushi Bazar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-278",
+    "district": "Hingoli",
+    "taluka": "Kalamnuri",
+    "mandi_name": "Kalamnuri APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-279",
+    "district": "Hingoli",
+    "taluka": "Marathawada Shetkari Khajgi Bazar Parisar",
+    "mandi_name": "Marathawada Shetkari Khajgi Bazar Parisar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-280",
+    "district": "Hingoli",
+    "taluka": "Sant Namdev Krushi Bazar,",
+    "mandi_name": "Sant Namdev Krushi Bazar, APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-281",
+    "district": "Hingoli",
+    "taluka": "Vitthal Krushi Utpanna Bazar",
+    "mandi_name": "Vitthal Krushi Utpanna Bazar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-282",
+    "district": "Latur",
+    "taluka": "Ahmedpur",
+    "mandi_name": "Ahmedpur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-283",
+    "district": "Latur",
+    "taluka": "Aurad Shahajani",
+    "mandi_name": "Aurad Shahajani APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-284",
+    "district": "Latur",
+    "taluka": "Ausa",
+    "mandi_name": "Ausa APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-285",
+    "district": "Latur",
+    "taluka": "Chakur",
+    "mandi_name": "Chakur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-286",
+    "district": "Latur",
+    "taluka": "Nilanga",
+    "mandi_name": "Nilanga APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-287",
+    "district": "Latur",
+    "taluka": "Latur",
+    "mandi_name": "Latur(Murud) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-288",
+    "district": "Latur",
+    "taluka": "Udgir",
+    "mandi_name": "Udgir APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-289",
+    "district": "Latur",
+    "taluka": "Devani",
+    "mandi_name": "Devani APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-290",
+    "district": "Latur",
+    "taluka": "Jalkot",
+    "mandi_name": "Jalkot APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-291",
+    "district": "Latur",
+    "taluka": "Latur",
+    "mandi_name": "Latur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-292",
+    "district": "Latur",
+    "taluka": "Rangrao Patil Krushi Utpanna Khajgi Bazar",
+    "mandi_name": "Rangrao Patil Krushi Utpanna Khajgi Bazar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-293",
+    "district": "Latur",
+    "taluka": "Renapur",
+    "mandi_name": "Renapur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-294",
+    "district": "Latur",
+    "taluka": "Shirur Anantpal",
+    "mandi_name": "Shirur Anantpal APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-295",
+    "district": "Latur",
+    "taluka": "Udgir",
+    "mandi_name": "Udgir(Hali) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-296",
+    "district": "Beed",
+    "taluka": "Gevrai",
+    "mandi_name": "Gevrai APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-297",
+    "district": "Beed",
+    "taluka": "Beed",
+    "mandi_name": "Beed APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-298",
+    "district": "Beed",
+    "taluka": "Kille Dharur",
+    "mandi_name": "Kille Dharur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-299",
+    "district": "Beed",
+    "taluka": "Majalgaon",
+    "mandi_name": "Majalgaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-300",
+    "district": "Beed",
+    "taluka": "Vadvani",
+    "mandi_name": "Vadvani APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-301",
+    "district": "Beed",
+    "taluka": "Parali Vaijyanath",
+    "mandi_name": "Parali Vaijyanath APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-302",
+    "district": "Beed",
+    "taluka": "Kada",
+    "mandi_name": "Kada APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-303",
+    "district": "Beed",
+    "taluka": "Ambejaogai",
+    "mandi_name": "Ambejaogai APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-304",
+    "district": "Beed",
+    "taluka": "Patoda",
+    "mandi_name": "Patoda APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-305",
+    "district": "Beed",
+    "taluka": "Kada",
+    "mandi_name": "Kada(Ashti) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-306",
+    "district": "Beed",
+    "taluka": "Kai Madhavrao Pawar Khajgi Krushi Utappan Bazar Sa",
+    "mandi_name": "Kai Madhavrao Pawar Khajgi Krushi Utappan Bazar Sa APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-307",
+    "district": "Beed",
+    "taluka": "Kaij",
+    "mandi_name": "Kaij APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-308",
+    "district": "Beed",
+    "taluka": "Kej",
+    "mandi_name": "Kej APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-309",
+    "district": "Wardha",
+    "taluka": "Hinganghat",
+    "mandi_name": "Hinganghat APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-310",
+    "district": "Wardha",
+    "taluka": "Wardha",
+    "mandi_name": "Wardha APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-311",
+    "district": "Wardha",
+    "taluka": "Ashti",
+    "mandi_name": "Ashti(Karanja) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-312",
+    "district": "Wardha",
+    "taluka": "Arvi",
+    "mandi_name": "Arvi APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-313",
+    "district": "Wardha",
+    "taluka": "Samudrapur",
+    "mandi_name": "Samudrapur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-314",
+    "district": "Wardha",
+    "taluka": "Arihant Krishi Utpan Bazar",
+    "mandi_name": "Arihant Krishi Utpan Bazar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-315",
+    "district": "Wardha",
+    "taluka": "Ashti",
+    "mandi_name": "Ashti APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-316",
+    "district": "Wardha",
+    "taluka": "Higanghat Infrastructure Private Limited",
+    "mandi_name": "Higanghat Infrastructure Private Limited APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-317",
+    "district": "Wardha",
+    "taluka": "Pulgaon",
+    "mandi_name": "Pulgaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-318",
+    "district": "Wardha",
+    "taluka": "Sai Agro Infratrade Pvt Agri Market",
+    "mandi_name": "Sai Agro Infratrade Pvt Agri Market APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-319",
+    "district": "Wardha",
+    "taluka": "Sindi",
+    "mandi_name": "Sindi APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-320",
+    "district": "Wardha",
+    "taluka": "Sindi",
+    "mandi_name": "Sindi(Selu) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-321",
+    "district": "Washim",
+    "taluka": "Manora",
+    "mandi_name": "Manora APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-322",
+    "district": "Washim",
+    "taluka": "Washim",
+    "mandi_name": "Washim APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-323",
+    "district": "Washim",
+    "taluka": "Mangrulpeer",
+    "mandi_name": "Mangrulpeer APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-324",
+    "district": "Washim",
+    "taluka": "Karanja",
+    "mandi_name": "Karanja APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-325",
+    "district": "Washim",
+    "taluka": "N N Mundhada Agriculture Market Produce",
+    "mandi_name": "N N Mundhada Agriculture Market Produce APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-326",
+    "district": "Washim",
+    "taluka": "Washim",
+    "mandi_name": "Washim(Ansing) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-327",
+    "district": "Washim",
+    "taluka": "Risod",
+    "mandi_name": "Risod APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-328",
+    "district": "Washim",
+    "taluka": "Malegaon",
+    "mandi_name": "Malegaon(Vashim) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-329",
+    "district": "Washim",
+    "taluka": "Jai Gajanan Krishi Bazar",
+    "mandi_name": "Jai Gajanan Krishi Bazar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-330",
+    "district": "Washim",
+    "taluka": "Krushna Krishi Bazar",
+    "mandi_name": "Krushna Krishi Bazar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-331",
+    "district": "Washim",
+    "taluka": "Shetkari Krushi Bazar",
+    "mandi_name": "Shetkari Krushi Bazar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-332",
+    "district": "Washim",
+    "taluka": "Shri Balaji krishi Utpanna Bazar Samiti",
+    "mandi_name": "Shri Balaji krishi Utpanna Bazar Samiti APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-333",
+    "district": "Jalna",
+    "taluka": "Jalana",
+    "mandi_name": "Jalana APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-334",
+    "district": "Jalna",
+    "taluka": "Mantha",
+    "mandi_name": "Mantha APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-335",
+    "district": "Jalna",
+    "taluka": "Partur",
+    "mandi_name": "Partur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-336",
+    "district": "Jalna",
+    "taluka": "Bhokardan",
+    "mandi_name": "Bhokardan APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-337",
+    "district": "Jalna",
+    "taluka": "Ghansawangi",
+    "mandi_name": "Ghansawangi APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-338",
+    "district": "Jalna",
+    "taluka": "Bhokardan",
+    "mandi_name": "Bhokardan(Pimpalgaon Renu) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-339",
+    "district": "Jalna",
+    "taluka": "Jafrabad",
+    "mandi_name": "Jafrabad APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-340",
+    "district": "Jalna",
+    "taluka": "Ambad",
+    "mandi_name": "Ambad (Vadigodri) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-341",
+    "district": "Jalna",
+    "taluka": "Ashti",
+    "mandi_name": "Ashti(Jalna) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-342",
+    "district": "Jalna",
+    "taluka": "Jalna",
+    "mandi_name": "Jalna(Badnapur) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-343",
+    "district": "Jalna",
+    "taluka": "Partur",
+    "mandi_name": "Partur(Vatur) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-344",
+    "district": "Akola",
+    "taluka": "Akola",
+    "mandi_name": "Akola APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-345",
+    "district": "Akola",
+    "taluka": "Akot",
+    "mandi_name": "Akot APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-346",
+    "district": "Akola",
+    "taluka": "Patur",
+    "mandi_name": "Patur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-347",
+    "district": "Akola",
+    "taluka": "Balapur",
+    "mandi_name": "Balapur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-348",
+    "district": "Akola",
+    "taluka": "Telhara",
+    "mandi_name": "Telhara APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-349",
+    "district": "Akola",
+    "taluka": "Murtizapur",
+    "mandi_name": "Murtizapur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-350",
+    "district": "Akola",
+    "taluka": "Akola",
+    "mandi_name": "Akola(Borgaon Manju) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-351",
+    "district": "Akola",
+    "taluka": "Barshi Takli",
+    "mandi_name": "Barshi Takli APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-352",
+    "district": "Akola",
+    "taluka": "Late Vasantraoji Dandale Khajgi Krushi Bazar",
+    "mandi_name": "Late Vasantraoji Dandale Khajgi Krushi Bazar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-353",
+    "district": "Akola",
+    "taluka": "Shri Gajanan Maharaj Khajagi Krushi Utpanna Bazar",
+    "mandi_name": "Shri Gajanan Maharaj Khajagi Krushi Utpanna Bazar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-354",
+    "district": "Satara",
+    "taluka": "Karad",
+    "mandi_name": "Karad APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-355",
+    "district": "Satara",
+    "taluka": "Satara",
+    "mandi_name": "Satara APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-356",
+    "district": "Satara",
+    "taluka": "Vai",
+    "mandi_name": "Vai APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-357",
+    "district": "Satara",
+    "taluka": "Vaduj",
+    "mandi_name": "Vaduj APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-358",
+    "district": "Satara",
+    "taluka": "Phaltan",
+    "mandi_name": "Phaltan APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-359",
+    "district": "Satara",
+    "taluka": "Lonand",
+    "mandi_name": "Lonand APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-360",
+    "district": "Satara",
+    "taluka": "Dahivadi",
+    "mandi_name": "Dahivadi APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-361",
+    "district": "Satara",
+    "taluka": "Jawali",
+    "mandi_name": "Jawali APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-362",
+    "district": "Satara",
+    "taluka": "Koregaon",
+    "mandi_name": "Koregaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-363",
+    "district": "Satara",
+    "taluka": "Patan",
+    "mandi_name": "Patan APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-364",
+    "district": "Thane",
+    "taluka": "Kalyan",
+    "mandi_name": "Kalyan APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-365",
+    "district": "Thane",
+    "taluka": "Ulhasnagar",
+    "mandi_name": "Ulhasnagar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-366",
+    "district": "Thane",
+    "taluka": "Palghar",
+    "mandi_name": "Palghar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-367",
+    "district": "Thane",
+    "taluka": "Murbad",
+    "mandi_name": "Murbad APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-368",
+    "district": "Thane",
+    "taluka": "Bhivandi",
+    "mandi_name": "Bhivandi APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-369",
+    "district": "Thane",
+    "taluka": "Dahanu",
+    "mandi_name": "Dahanu APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-370",
+    "district": "Thane",
+    "taluka": "Kalyan",
+    "mandi_name": "Kalyan(Cattle Market) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-371",
+    "district": "Thane",
+    "taluka": "Mumbai-Onion And Potato Mkt",
+    "mandi_name": "Mumbai-Onion And Potato Mkt APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-372",
+    "district": "Thane",
+    "taluka": "Shahapur",
+    "mandi_name": "Shahapur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-373",
+    "district": "Thane",
+    "taluka": "Vasai",
+    "mandi_name": "Vasai APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-374",
+    "district": "Raigad",
+    "taluka": "Panvel",
+    "mandi_name": "Panvel APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-375",
+    "district": "Raigad",
+    "taluka": "Pen",
+    "mandi_name": "Pen APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-376",
+    "district": "Raigad",
+    "taluka": "Karjat",
+    "mandi_name": "Karjat(Raigad) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-377",
+    "district": "Raigad",
+    "taluka": "Alibagh",
+    "mandi_name": "Alibagh APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-378",
+    "district": "Raigad",
+    "taluka": "Mangaon",
+    "mandi_name": "Mangaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-379",
+    "district": "Raigad",
+    "taluka": "Murud",
+    "mandi_name": "Murud APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-380",
+    "district": "Raigad",
+    "taluka": "Roha",
+    "mandi_name": "Roha APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-381",
+    "district": "Raigad",
+    "taluka": "Khalapur",
+    "mandi_name": "Khalapur (Shil-Phata) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-382",
+    "district": "Raigad",
+    "taluka": "Mahad",
+    "mandi_name": "Mahad APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-383",
+    "district": "Sangli",
+    "taluka": "Islampur",
+    "mandi_name": "Islampur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-384",
+    "district": "Sangli",
+    "taluka": "Sangli",
+    "mandi_name": "Sangli(Phale, Bhajipura Market) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-385",
+    "district": "Sangli",
+    "taluka": "Sangli",
+    "mandi_name": "Sangli APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-386",
+    "district": "Sangli",
+    "taluka": "Palus",
+    "mandi_name": "Palus APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-387",
+    "district": "Sangli",
+    "taluka": "Tasgaon",
+    "mandi_name": "Tasgaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-388",
+    "district": "Sangli",
+    "taluka": "Vita",
+    "mandi_name": "Vita APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-389",
+    "district": "Sangli",
+    "taluka": "Sangli",
+    "mandi_name": "Sangli(Miraj) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-390",
+    "district": "Sangli",
+    "taluka": "Aatpadi",
+    "mandi_name": "Aatpadi APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-391",
+    "district": "Sangli",
+    "taluka": "Shirala",
+    "mandi_name": "Shirala APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-392",
+    "district": "Dharashiv",
+    "taluka": "Dharashiv",
+    "mandi_name": "Dharashiv APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-393",
+    "district": "Dharashiv",
+    "taluka": "Kalamb",
+    "mandi_name": "Kalamb (Dharashiv) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-394",
+    "district": "Dharashiv",
+    "taluka": "Murum",
+    "mandi_name": "Murum APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-395",
+    "district": "Dharashiv",
+    "taluka": "Tuljapur",
+    "mandi_name": "Tuljapur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-396",
+    "district": "Dharashiv",
+    "taluka": "Paranda",
+    "mandi_name": "Paranda APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-397",
+    "district": "Dharashiv",
+    "taluka": "Washi",
+    "mandi_name": "Washi (Dharashiv) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-398",
+    "district": "Dharashiv",
+    "taluka": "Bhoom",
+    "mandi_name": "Bhoom APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-399",
+    "district": "Dharashiv",
+    "taluka": "Umarga",
+    "mandi_name": "Umarga APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-400",
+    "district": "Dhule",
+    "taluka": "Shirpur",
+    "mandi_name": "Shirpur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-401",
+    "district": "Dhule",
+    "taluka": "Dondaicha",
+    "mandi_name": "Dondaicha APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-402",
+    "district": "Dhule",
+    "taluka": "Sakri",
+    "mandi_name": "Sakri APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-403",
+    "district": "Dhule",
+    "taluka": "Dhule",
+    "mandi_name": "Dhule APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-404",
+    "district": "Dhule",
+    "taluka": "Dondaicha",
+    "mandi_name": "Dondaicha(Sindhkheda) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-405",
+    "district": "Dhule",
+    "taluka": "Janata Agri Market",
+    "mandi_name": "Janata Agri Market (DLS Agro Infrastructure Pvt Lt APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-406",
+    "district": "Dhule",
+    "taluka": "Keshranand Cotex",
+    "mandi_name": "Keshranand Cotex APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-407",
+    "district": "Dhule",
+    "taluka": "Pratap Nana Mahale Khajgi Bajar Samiti",
+    "mandi_name": "Pratap Nana Mahale Khajgi Bajar Samiti APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-408",
+    "district": "Gondia",
+    "taluka": "Gondiya",
+    "mandi_name": "Gondiya APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-409",
+    "district": "Gondia",
+    "taluka": "Tiroda",
+    "mandi_name": "Tiroda APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-410",
+    "district": "Gondia",
+    "taluka": "Amgaon",
+    "mandi_name": "Amgaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-411",
+    "district": "Gondia",
+    "taluka": "Arjuni",
+    "mandi_name": "Arjuni APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-412",
+    "district": "Gondia",
+    "taluka": "Devri",
+    "mandi_name": "Devri APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-413",
+    "district": "Gondia",
+    "taluka": "Goregaon",
+    "mandi_name": "Goregaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-414",
+    "district": "Gondia",
+    "taluka": "Sadak Arjuni",
+    "mandi_name": "Sadak Arjuni APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-415",
+    "district": "Nandurbar",
+    "taluka": "Shahada",
+    "mandi_name": "Shahada APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-416",
+    "district": "Nandurbar",
+    "taluka": "Dhadgaon",
+    "mandi_name": "Dhadgaon APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-417",
+    "district": "Nandurbar",
+    "taluka": "Akkalkuwa",
+    "mandi_name": "Akkalkuwa APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-418",
+    "district": "Nandurbar",
+    "taluka": "Nandubar",
+    "mandi_name": "Nandubar(Koparli) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-419",
+    "district": "Nandurbar",
+    "taluka": "Nandurbar",
+    "mandi_name": "Nandurbar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-420",
+    "district": "Nandurbar",
+    "taluka": "Navapur",
+    "mandi_name": "Navapur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-421",
+    "district": "Nandurbar",
+    "taluka": "Taloda",
+    "mandi_name": "Taloda APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-422",
+    "district": "Gadchiroli",
+    "taluka": "Armori",
+    "mandi_name": "Armori APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-423",
+    "district": "Gadchiroli",
+    "taluka": "Armori",
+    "mandi_name": "Armori(Desaiganj) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-424",
+    "district": "Gadchiroli",
+    "taluka": "Chamorshi",
+    "mandi_name": "Chamorshi APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-425",
+    "district": "Gadchiroli",
+    "taluka": "Aheri",
+    "mandi_name": "Aheri APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-426",
+    "district": "Gadchiroli",
+    "taluka": "Gandchiroli",
+    "mandi_name": "Gandchiroli APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-427",
+    "district": "Gadchiroli",
+    "taluka": "Sironcha",
+    "mandi_name": "Sironcha APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-428",
+    "district": "Kolhapur",
+    "taluka": "Vadgaonpeth",
+    "mandi_name": "Vadgaonpeth APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-429",
+    "district": "Kolhapur",
+    "taluka": "Kolhapur",
+    "mandi_name": "Kolhapur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-430",
+    "district": "Kolhapur",
+    "taluka": "Kolhapur",
+    "mandi_name": "Kolhapur(Laxmipuri) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-431",
+    "district": "Kolhapur",
+    "taluka": "Gadhinglaj",
+    "mandi_name": "Gadhinglaj APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-432",
+    "district": "Kolhapur",
+    "taluka": "Jaysingpur",
+    "mandi_name": "Jaysingpur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-433",
+    "district": "Kolhapur",
+    "taluka": "Kolhapur",
+    "mandi_name": "Kolhapur(Malkapur) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-434",
+    "district": "Mumbai City",
+    "taluka": "Mumbai",
+    "mandi_name": "Mumbai APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-435",
+    "district": "Mumbai City",
+    "taluka": "Mumbai- Fruit Market",
+    "mandi_name": "Mumbai- Fruit Market APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-436",
+    "district": "Mumbai City",
+    "taluka": "Vashi New Mumbai",
+    "mandi_name": "Vashi New Mumbai APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-437",
+    "district": "Mumbai City",
+    "taluka": "All India Cottonseed Crushers Association",
+    "mandi_name": "All India Cottonseed Crushers Association APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-438",
+    "district": "Mumbai City",
+    "taluka": "Mumbai- Thane Market",
+    "mandi_name": "Mumbai- Thane Market APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-439",
+    "district": "Mumbai City",
+    "taluka": "NCDEX Spot Exchange",
+    "mandi_name": "NCDEX Spot Exchange APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-440",
+    "district": "Bhandara",
+    "taluka": "Tumsar",
+    "mandi_name": "Tumsar APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-441",
+    "district": "Bhandara",
+    "taluka": "Bhandara",
+    "mandi_name": "Bhandara APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-442",
+    "district": "Bhandara",
+    "taluka": "Lakhani",
+    "mandi_name": "Lakhani APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-443",
+    "district": "Bhandara",
+    "taluka": "Lakhandur",
+    "mandi_name": "Lakhandur APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-444",
+    "district": "Bhandara",
+    "taluka": "Pavani",
+    "mandi_name": "Pavani APMC",
+    "notes": ""
+  },
+  {
+    "id": "apmc-445",
+    "district": "Ratnagiri",
+    "taluka": "Ratnagiri",
+    "mandi_name": "Ratnagiri (Nachane) APMC",
+    "notes": "Sub-market/branch of main APMC — taluka is best estimate from market name"
+  },
+  {
+    "id": "apmc-446",
+    "district": "Sindhudurg",
+    "taluka": "Sindhudurg",
+    "mandi_name": "Sindhudurg APMC",
+    "notes": ""
+  }
+]
